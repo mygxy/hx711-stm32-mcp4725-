@@ -1,0 +1,35 @@
+# Keil build output
+Objects/
+Listings/
+DebugConfig/
+RTE/
+*.uvguix.*
+*.uvoptx
+*.bak
+*.dep
+*.iex
+*.htm
+*.lnp
+*.map
+*.lst
+*.axf
+*.hex
+*.bin
+*.crf
+*.d
+*.o
+*.l1p
+*.l2p
+*.sct
+
+# IDE / logs
+.vscode/
+
+# OS / Word lock files
+~$*
+
+# chat log export
+content.json
+
+# binary documents (lab book etc.)
+*.docx
